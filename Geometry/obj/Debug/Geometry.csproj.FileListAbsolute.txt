@@ -1,0 +1,6 @@
+D:\Practice\Assignment_6-8-15\Geometry\Geometry\bin\Debug\Geometry.exe.config
+D:\Practice\Assignment_6-8-15\Geometry\Geometry\bin\Debug\Geometry.exe
+D:\Practice\Assignment_6-8-15\Geometry\Geometry\bin\Debug\Geometry.pdb
+D:\Practice\Assignment_6-8-15\Geometry\Geometry\obj\Debug\Geometry.csprojResolveAssemblyReference.cache
+D:\Practice\Assignment_6-8-15\Geometry\Geometry\obj\Debug\Geometry.exe
+D:\Practice\Assignment_6-8-15\Geometry\Geometry\obj\Debug\Geometry.pdb
